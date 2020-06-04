@@ -5,7 +5,7 @@
 <section>
   <Label text="Hello" />
   <div>
-    <p>When i wrote my first code, I was fascinated when I realized I could tell computers what to do.</p>
+    <p>When i wrote my first code, I realized I could tell computers what to do. It was fascinating.</p>
     <p>
       I worked in various jobs before school. Some of those are Mc Donalds, Burger King, Mavi Jeans and Turkcell
       Customer Service. Unfortunately, none of this jobs was satisfactory.
@@ -14,15 +14,15 @@
       As soon as I decided to be a software engineer, I stared to study Associate's Degree in Computer Programming at
       Celal Bayar University. After finishing computer programming,
       <br />
-      I was confident in my programming skills but I wasn't good at math. When I realized that
+      I was confident in my programming skills but I wasn't good at math. After I realized that
       <br />
       I started to sudy Bachelor of Science in Computer Science at Dokuz Eylul University to improve myself in
       mathematics. Now i'm in my second year of study.
     </p>
     <p>
-      I wanted to develop games when I first start programming. I was learning Unity and C#. Developing games is fun,
-      it's a pleasure to deal with game math and writing high performance code. But it was not enough. I wanted to make
-      people's lives easier with quality software.
+      I wanted to develop games when I first started to programming. I was learning Unity and C#. Developing games is
+      fun, it's a pleasure to deal with game math and writing high performance code. But it was not enough. I wanted to
+      make people's lives easier with quality software.
       <br />
       So, i started to learn Frontend Development.
       <br />
@@ -47,7 +47,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: start;
   }
   p {
     margin: 8px 0;
