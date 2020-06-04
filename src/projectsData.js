@@ -46,7 +46,7 @@ export default function projectsData() {
         'I built memory optimized virtual list for chat UI.',
         'I learned build and update Electron packages for Linux.',
         'First, we used Node.js Event System and Child Process for communication with Go backend. But, it was hard to manage ',
-        'We used, we used Node.js Event System and Child Process for communication with Go backend. But, it was hard to manage. So, we switched to WebSocket. It Worked.',
+        'We used Node.js Event System and Child Process for communication with Go backend. But, it was hard to manage. So, we switched to WebSocket. It Worked.',
       ],
       slogan: 'File transfer and messaging app over a local area network.',
       techstack: ['React', 'Electron', 'Go'],
