@@ -5,7 +5,7 @@
 <section>
   <Label text="Hello" />
   <div>
-    <p>When i wrote my first code, I realized I could tell computers what to do. It was fascinating.</p>
+    <p>When i wrote my first code, I realized I could tell computers what to do. I was fascinated.</p>
     <p>
       I worked in various jobs before school. Some of those are Mc Donalds, Burger King, Mavi Jeans and Turkcell
       Customer Service. Unfortunately, none of this jobs was satisfactory.
@@ -14,10 +14,8 @@
       As soon as I decided to be a software engineer, I stared to study Associate's Degree in Computer Programming at
       Celal Bayar University. After finishing computer programming,
       <br />
-      I was confident in my programming skills but I wasn't good at math. After I realized that
-      <br />
-      I started to sudy Bachelor of Science in Computer Science at Dokuz Eylul University to improve myself in
-      mathematics. Now i'm in my second year of study.
+      I started to sudy Bachelor of Science in Computer Science at Dokuz Eylul University. Now i'm in my second year of
+      study.
     </p>
     <p>
       I wanted to develop games when I first started to programming. I was learning Unity and C#. Developing games is
