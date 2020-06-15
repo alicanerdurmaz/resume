@@ -17,9 +17,12 @@
   </div>
 
   <p class="slogan">{project.slogan}</p>
-  {#each project.description as description}
-    <p class="description">{description}</p>
-  {/each}
+  {#if project.description}
+    {#each project.description as description}
+      <p class="description">{description}</p>
+    {/each}
+  {/if}
+
 </li>
 
 <style>

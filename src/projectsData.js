@@ -2,6 +2,19 @@ export default function projectsData() {
   return [
     {
       status: 'Demo',
+      name: 'Tv Series Chart',
+      slogan: 'Data Visualization of Imdb Ratings.',
+      techstack: ['React', 'NextJs'],
+      links: {
+        github: 'https://github.com/alicanerdurmaz/tv-series-chart',
+        release: {
+          platformName: 'Web',
+          url: 'https://tvserieschart.now.sh/',
+        },
+      },
+    },
+    {
+      status: 'Demo',
       name: 'QuickPoll',
       slogan: 'Fastest and easiest way to create real-time polls.',
       description: [
