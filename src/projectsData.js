@@ -55,7 +55,7 @@ export default function projectsData() {
       name: 'Wstfp-gui',
       status: 'WIP',
       description: [
-        'I learned how to handle highly reactive state management with performance. Thanks to React, it was easy to make.',
+        'I learned how to handle highly reactive state management with performance.',
         'I built memory optimized virtual list for chat UI.',
         'I learned build and update Electron packages for Linux.',
         'First, we used Node.js Event System and Child Process for communication with Go backend. But, it was hard to manage. So, we switched to WebSocket. It Worked. ',

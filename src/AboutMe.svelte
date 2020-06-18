@@ -5,7 +5,7 @@
 <section>
   <Label text="Hello" />
   <div>
-    <p>When i wrote my first code, I realized I could tell computers what to do. I was fascinated.</p>
+    <p>When I wrote my first code, I realized I could tell computers what to do. I was fascinated.</p>
     <p>
       As soon as I decided to be a software engineer, I stared to study Associate's Degree in Computer Programming at
       Celal Bayar University. After finishing computer programming,
